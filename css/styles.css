@@ -153,6 +153,9 @@ input:focus, textarea:focus {
     background: #FCDC3B;
 }
 
+.hidden {
+    display:none;
+}
 /* Footer styles */
 
 footer {
