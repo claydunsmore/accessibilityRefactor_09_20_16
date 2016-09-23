@@ -138,6 +138,7 @@ header .name{
     text-transform: uppercase;
     color: #FCDC3B;
     margin-top: 10px;
+    text-align: center;
 }
 
 td, th {

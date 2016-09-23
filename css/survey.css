@@ -12,11 +12,15 @@ form {
 }
 
 .container{
-  text-align: center;
+  text-align: left;
 }
 .newsletter{
   text-align: right;
 
+}
+
+.news {
+  text-align: left;
 }
 
 
